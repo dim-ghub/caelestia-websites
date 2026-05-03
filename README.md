@@ -48,12 +48,7 @@ Add an import line for each website CSS theme you want to have applied. For exam
 
 ## Step 8: Refresh Your Wallpaper
 
-Refresh your wallpaper by either:
-- Selecting a wallpaper, or
-- Running this command:
-  ```
-  ~/user_scripts/theme_matugen/theme_ctl.sh refresh
-  ```
+Refresh your wallpaper by pressing the super key, then typing >wallpapers. You may either switch to a new wallpaper or reselect the wallpaper youre already using.
 
 Then symlink `~/.local/state/caelestia/theme/websites.css` to `[YOURPROFILEFOLDER]/chrome/colors.css`.
 
